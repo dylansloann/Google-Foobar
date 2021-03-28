@@ -31,7 +31,7 @@ class Solution {
             ------------- O(nlogn) solution (avg) ------------- 
             has potential to reach O(n^2) on quick sort worst case,
             but space complexity was taken into consideration in
-            comparison with merge sort to assure O(nlogn) worst case
+            comparison with merge sort which woudlve assured O(nlogn)
         */
         
         // sort x
